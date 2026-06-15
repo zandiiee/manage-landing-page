@@ -71,7 +71,6 @@ body{
 }
 #num{
     display:block;
-    
     width:50px;
     background-color: hsl(12, 88%, 59%);
     padding:5px;
@@ -81,7 +80,7 @@ body{
     font-size: medium;
 }
 .list{
-    display: block;
+    display:block;
     width:450px;
     margin-left: auto;
     margin-right: 200px;
