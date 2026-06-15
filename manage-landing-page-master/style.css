@@ -1,0 +1,202 @@
+body{
+    font-family: "Be Vietnam Pro", sans-serif;
+}
+
+.links{
+    display:block;
+    margin-left:650px;
+    margin-top: -30px;
+    word-spacing: 10px;
+}
+#header-logo{
+    margin-top: 50px;
+    margin-left: 60px;
+}
+.header{
+    background-image: url(./images/bg-simplify-section-desktop.svg);
+    
+
+}
+#btn1{
+    display:block;
+    margin-left:auto;
+    margin-right: 200px;
+    margin-top:-20px;
+    width:150px;
+    height:50px;
+    border-radius: 20px;
+    border:none;
+    background-color: hsl(12, 88%, 59%);
+    color: white;
+    font-size: medium;
+    font-weight:bolder;
+    box-shadow:0px 15px 35px rgba(0, 0, 0, 0.1);
+}
+.intro{
+    display:block;
+    width:300px;
+    font-weight:400;
+    margin-top: 200px;
+    margin-left: 100px;
+    font-size:x-large;
+}
+#btn2{
+    width:150px;
+    height:50px;
+    border-radius: 20px;
+    border:none;
+    background-color: hsl(12, 88%, 59%);
+    color: white;
+    font-size: medium;
+    font-weight:bolder;
+    box-shadow:0px 15px 35px rgba(0, 0, 0, 0.1);
+}
+.about{
+    display:block;
+    width:300px;
+    font-weight:400;
+    margin-top: 200px;
+    margin-left: 100px;
+    font-size:x-large;
+}
+#num{
+    width:50px;
+    background-color: hsl(12, 88%, 59%);
+    padding:5px;
+    padding-left:20px;
+    border-radius: 20px;
+    color: white;
+    font-size: medium;
+}
+.list{
+    display: block;
+    width:450px;
+    margin-left: auto;
+    margin-right: 200px;
+    margin-top: -520px;
+}
+.list h3{
+    color: hsl(228, 39%, 23%);
+}
+#second-header{
+    color: hsl(228, 39%, 23%);
+    text-align: center;
+    margin-top: 200px;
+}
+.review{
+    display:grid;
+    grid-template-columns: repeat(4, 1fr); 
+    column-gap:100px;
+    margin-left: 50px;
+}
+#anisha{
+    display:block;
+    background-color: hsl(13, 100%, 96%);
+    height:200px;
+    width:500px;
+    padding-left: 20px;
+     margin-top: 100px;
+}
+#ali{
+    display:block;
+    background-color: hsl(13, 100%, 96%);
+    height:200px;
+    width:500px;
+    padding-left: 20px;
+    margin-top: 100px;
+}
+#richard{
+    display:block;
+    background-color: hsl(13, 100%, 96%);
+    height:200px;
+    width:500px;
+    padding-left: 20px;
+     margin-top:100px;
+}
+#shanai{
+    display:block;
+    background-color: hsl(13, 100%, 96%);
+    height:200px;
+    width:500px;
+    padding-left: 20px;
+     margin-top: 100px;
+}
+#last-button{
+    display: block;
+    margin-left:900px;
+    margin-top: 50px;
+    width:150px;
+    height:50px;
+    border-radius: 20px;
+    border:none;
+    background-color: hsl(12, 88%, 59%);
+    color: white;
+    font-size: medium;
+    font-weight:bolder;
+    box-shadow:0px 15px 35px rgba(0, 0, 0, 0.1);
+}
+#llbutton{
+    width:150px;
+    height:50px;
+    border-radius: 20px;
+    border:none;
+    background-color:  hsl(13, 100%, 96%);
+    color:  hsl(12, 88%, 59%);
+    font-size: medium;
+    font-weight:bolder;
+    margin-left: 1000px;
+    margin-right: 200px;
+    box-shadow:0px 15px 35px rgba(0, 0, 0, 0.1);
+}
+.simplify{
+    display:flex;
+    margin-top: 300px;
+    margin-bottom: 300px;
+    background-color: hsl(12, 88%, 59%);
+
+}
+.final-section ul{
+    list-style-type:none;
+}
+.final-section{
+    display: flex;
+    gap:200px;
+    background-color:  hsl(233, 12%, 13%);
+    
+}
+#bottom{
+    display: flex;
+    gap:300px;
+    margin-left:50px;
+}
+#last-logo{
+    margin-left:50px;
+}
+.search{
+    display:flex;
+    height:50px;
+    gap:10px;
+}
+#submit{
+    width:100px;
+    border-radius: 20px;
+    border:none;
+    background-color: hsl(12, 88%, 59%);
+    color: white;
+    font-size: medium;
+    font-weight:bolder;
+}
+#searchbox{
+    border-radius: 20px;
+    border:none;
+    background-color: bisque;
+}
+#headerpic{
+    display:block;
+    margin-left:900px;
+    margin-top: -520px;
+}
+#profile{
+    margin-top:-50px;
+    margin-left: 150px;
+}
