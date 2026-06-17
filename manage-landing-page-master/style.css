@@ -166,7 +166,7 @@ body{
     background-color: hsl(12, 88%, 59%);
     font-size: large;
     padding-left: 100px;
-    width:100vw;
+    width:125vw;
     height:20vh;
     background-image: url(./images/bg-simplify-section-desktop.svg);
     background-repeat: no-repeat;
@@ -182,7 +182,7 @@ body{
     color: hsl(0, 0%, 98%);
     height:200px;
     padding-top:50px;
-    width:auto;
+    width:130vw;
 }
 #bottom{
     display: flex;
