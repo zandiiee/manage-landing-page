@@ -177,20 +177,22 @@ body{
 }
 .final-section{
     display: flex;
-    gap:200px;
+    gap:100px;
     background-color:  hsl(233, 12%, 13%);
     color: hsl(0, 0%, 98%);
     height:200px;
     padding-top:50px;
+    width:auto;
 }
 #bottom{
     display: flex;
     gap:300px;
-    margin-left:50px;
+    margin-left:40px;
 }
 #last-logo{
     margin-left:50px;
     margin-top:20px;
+    display: block;
 }
 .search{
     display:flex;
@@ -223,5 +225,12 @@ body{
 #copyright{
     display:block;
     margin-top:130px;
-    
+}
+#socialm{
+    display:flex;
+    gap:30px;
+    height:20px;
+    margin-top:100px;
+    margin-left:0;
+    align-items: flex-start;
 }
